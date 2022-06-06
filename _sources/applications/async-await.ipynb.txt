@@ -27,10 +27,10 @@
    "execution_count": 1,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:49.642479Z",
-     "iopub.status.busy": "2021-10-14T16:44:49.641711Z",
-     "iopub.status.idle": "2021-10-14T16:44:51.800270Z",
-     "shell.execute_reply": "2021-10-14T16:44:51.799441Z"
+     "iopub.execute_input": "2022-06-06T19:38:58.025839Z",
+     "iopub.status.busy": "2022-06-06T19:38:58.025524Z",
+     "iopub.status.idle": "2022-06-06T19:38:59.687747Z",
+     "shell.execute_reply": "2022-06-06T19:38:59.687169Z"
     }
    },
    "outputs": [],
@@ -44,20 +44,31 @@
    "execution_count": 2,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:51.805099Z",
-     "iopub.status.busy": "2021-10-14T16:44:51.802658Z",
-     "iopub.status.idle": "2021-10-14T16:44:51.824509Z",
-     "shell.execute_reply": "2021-10-14T16:44:51.825360Z"
+     "iopub.execute_input": "2022-06-06T19:38:59.691348Z",
+     "iopub.status.busy": "2022-06-06T19:38:59.690956Z",
+     "iopub.status.idle": "2022-06-06T19:38:59.824925Z",
+     "shell.execute_reply": "2022-06-06T19:38:59.824438Z"
     }
    },
    "outputs": [
     {
      "data": {
       "text/html": [
-       "<b>Future: inc</b> <font color=\"gray\">status: </font><font color=\"black\">pending</font>, <font color=\"gray\">key: </font>inc-5bfc82c09dc4b28d284ae023ec968234"
+       "<strong>Future: inc</strong>\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> status: </span>\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-error-color0, black)\">pending</span>,\n",
+       "\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> type:</span> NoneType,\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> key:</span> inc-62383346665144a9c538eac11288e610"
       ],
       "text/plain": [
-       "<Future: pending, key: inc-5bfc82c09dc4b28d284ae023ec968234>"
+       "<Future: pending, key: inc-62383346665144a9c538eac11288e610>"
       ]
      },
      "execution_count": 2,
@@ -78,10 +89,10 @@
    "execution_count": 3,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:51.829314Z",
-     "iopub.status.busy": "2021-10-14T16:44:51.828124Z",
-     "iopub.status.idle": "2021-10-14T16:44:51.852000Z",
-     "shell.execute_reply": "2021-10-14T16:44:51.850322Z"
+     "iopub.execute_input": "2022-06-06T19:38:59.827969Z",
+     "iopub.status.busy": "2022-06-06T19:38:59.827563Z",
+     "iopub.status.idle": "2022-06-06T19:38:59.839631Z",
+     "shell.execute_reply": "2022-06-06T19:38:59.838995Z"
     }
    },
    "outputs": [
@@ -115,10 +126,10 @@
    "execution_count": 4,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:51.856406Z",
-     "iopub.status.busy": "2021-10-14T16:44:51.855219Z",
-     "iopub.status.idle": "2021-10-14T16:44:52.248349Z",
-     "shell.execute_reply": "2021-10-14T16:44:52.248977Z"
+     "iopub.execute_input": "2022-06-06T19:38:59.841818Z",
+     "iopub.status.busy": "2022-06-06T19:38:59.841443Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.113991Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.113527Z"
     }
    },
    "outputs": [
@@ -226,10 +237,10 @@
    "execution_count": 5,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:52.251456Z",
-     "iopub.status.busy": "2021-10-14T16:44:52.250903Z",
-     "iopub.status.idle": "2021-10-14T16:44:52.260002Z",
-     "shell.execute_reply": "2021-10-14T16:44:52.260540Z"
+     "iopub.execute_input": "2022-06-06T19:39:00.116799Z",
+     "iopub.status.busy": "2022-06-06T19:39:00.116395Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.137367Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.136938Z"
     }
    },
    "outputs": [],
@@ -242,10 +253,10 @@
    "execution_count": 6,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:52.282858Z",
-     "iopub.status.busy": "2021-10-14T16:44:52.281890Z",
-     "iopub.status.idle": "2021-10-14T16:44:52.303888Z",
-     "shell.execute_reply": "2021-10-14T16:44:52.304336Z"
+     "iopub.execute_input": "2022-06-06T19:39:00.142255Z",
+     "iopub.status.busy": "2022-06-06T19:39:00.141923Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.151197Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.150757Z"
     }
    },
    "outputs": [],
@@ -258,10 +269,10 @@
    "execution_count": 7,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:52.307300Z",
-     "iopub.status.busy": "2021-10-14T16:44:52.306506Z",
-     "iopub.status.idle": "2021-10-14T16:44:52.312571Z",
-     "shell.execute_reply": "2021-10-14T16:44:52.313235Z"
+     "iopub.execute_input": "2022-06-06T19:39:00.162164Z",
+     "iopub.status.busy": "2022-06-06T19:39:00.162007Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.171444Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.170915Z"
     }
    },
    "outputs": [],
@@ -274,20 +285,31 @@
    "execution_count": 8,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:52.315745Z",
-     "iopub.status.busy": "2021-10-14T16:44:52.315199Z",
-     "iopub.status.idle": "2021-10-14T16:44:52.335514Z",
-     "shell.execute_reply": "2021-10-14T16:44:52.336120Z"
+     "iopub.execute_input": "2022-06-06T19:39:00.173785Z",
+     "iopub.status.busy": "2022-06-06T19:39:00.173635Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.196547Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.196029Z"
     }
    },
    "outputs": [
     {
      "data": {
       "text/html": [
-       "<b>Future: finalize</b> <font color=\"gray\">status: </font><font color=\"black\">pending</font>, <font color=\"gray\">key: </font>finalize-2bfb8ada18010311459820e0edb38957"
+       "<strong>Future: finalize</strong>\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> status: </span>\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-error-color0, black)\">pending</span>,\n",
+       "\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> type:</span> NoneType,\n",
+       "\n",
+       "\n",
+       "<span style=\"color: var(--jp-ui-font-color2, gray)\"> key:</span> finalize-4f7bd39f041c6d978fabba86b131a094"
       ],
       "text/plain": [
-       "<Future: pending, key: finalize-2bfb8ada18010311459820e0edb38957>"
+       "<Future: pending, key: finalize-4f7bd39f041c6d978fabba86b131a094>"
       ]
      },
      "execution_count": 8,
@@ -305,18 +327,18 @@
    "execution_count": 9,
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2021-10-14T16:44:52.351006Z",
-     "iopub.status.busy": "2021-10-14T16:44:52.345168Z",
-     "iopub.status.idle": "2021-10-14T16:44:54.572979Z",
-     "shell.execute_reply": "2021-10-14T16:44:54.570667Z"
+     "iopub.execute_input": "2022-06-06T19:39:00.203842Z",
+     "iopub.status.busy": "2022-06-06T19:39:00.203685Z",
+     "iopub.status.idle": "2022-06-06T19:39:00.851339Z",
+     "shell.execute_reply": "2022-06-06T19:39:00.850866Z"
     }
    },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "x    491.944862\n",
-       "y   -260.068251\n",
+       "x    611.136793\n",
+       "y    -92.511028\n",
        "dtype: float64"
       ]
      },
@@ -358,18 +380,11 @@
     "    asyncio.get_event_loop().run_until_complete(f())\n",
     "```"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python 3",
+   "display_name": "Python 3 (ipykernel)",
    "language": "python",
    "name": "python3"
   },
@@ -383,7 +398,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.8.12"
+   "version": "3.9.12"
   }
  },
  "nbformat": 4,
